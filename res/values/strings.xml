@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AloPhuot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- Login Home -->
+	<string name="hintEmail">Tên tài khoản</string>
+	<string name="hintPassword">Mật khẩu</string>
+	<string name="login">Đăng nhập</string>
+	<string name="cant_login">Không đăng nhập được? Vui lòng gọi chúng tôi</string>
+	<string name="dont_have_card">Bạn chưa có thẻ? Vui lòng gọi chúng tôi</string>
+	<string name="call_hotline">Gọi hotline Thế Giới Ưu Đãi</string>
+	<string name="do_u_want_call">Bạn có muốn gọi chúng tôi không?</string>
+	<string name="yes">Có</string>
+	<string name="no">Không</string>
+	<string name="login_wrong_info">Đăng nhập sai thông tin</string>
+	<string name="info_not_availeble">Email hoặc số thẻ không hợp lệ</string>
+	<string name="card_not_access">Thẻ chưa kích hoạt</string>
+	<string name="login_success">Đăng nhập thành công</string>
+	<string name="break_login">Bỏ qua đăng nhập</string>
+	
+	<!-- Main home -->
+	<string name="main_home">Trang chủ</string>
+
+</resources>

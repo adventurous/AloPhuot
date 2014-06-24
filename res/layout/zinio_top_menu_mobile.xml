@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="8"
+    android:background="@color/home_screen_bottom_mobile_bg" >
+
+    <ImageButton
+        android:id="@+id/btn_slide_home_mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:background="@drawable/slide_menu_ic_lib" />
+
+    <TextView
+        android:id="@+id/tv_title_home_mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/main_home"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>
